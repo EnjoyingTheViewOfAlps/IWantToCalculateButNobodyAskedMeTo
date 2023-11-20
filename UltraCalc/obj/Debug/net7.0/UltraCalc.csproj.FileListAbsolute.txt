@@ -1,0 +1,15 @@
+C:\Users\пк\source\repos\UltraCalc\UltraCalc\bin\Debug\net7.0\UltraCalc.exe
+C:\Users\пк\source\repos\UltraCalc\UltraCalc\bin\Debug\net7.0\UltraCalc.deps.json
+C:\Users\пк\source\repos\UltraCalc\UltraCalc\bin\Debug\net7.0\UltraCalc.runtimeconfig.json
+C:\Users\пк\source\repos\UltraCalc\UltraCalc\bin\Debug\net7.0\UltraCalc.dll
+C:\Users\пк\source\repos\UltraCalc\UltraCalc\bin\Debug\net7.0\UltraCalc.pdb
+C:\Users\пк\source\repos\UltraCalc\UltraCalc\obj\Debug\net7.0\UltraCalc.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\UltraCalc\UltraCalc\obj\Debug\net7.0\UltraCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пк\source\repos\UltraCalc\UltraCalc\obj\Debug\net7.0\UltraCalc.AssemblyInfoInputs.cache
+C:\Users\пк\source\repos\UltraCalc\UltraCalc\obj\Debug\net7.0\UltraCalc.AssemblyInfo.cs
+C:\Users\пк\source\repos\UltraCalc\UltraCalc\obj\Debug\net7.0\UltraCalc.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\UltraCalc\UltraCalc\obj\Debug\net7.0\UltraCalc.dll
+C:\Users\пк\source\repos\UltraCalc\UltraCalc\obj\Debug\net7.0\refint\UltraCalc.dll
+C:\Users\пк\source\repos\UltraCalc\UltraCalc\obj\Debug\net7.0\UltraCalc.pdb
+C:\Users\пк\source\repos\UltraCalc\UltraCalc\obj\Debug\net7.0\UltraCalc.genruntimeconfig.cache
+C:\Users\пк\source\repos\UltraCalc\UltraCalc\obj\Debug\net7.0\ref\UltraCalc.dll
